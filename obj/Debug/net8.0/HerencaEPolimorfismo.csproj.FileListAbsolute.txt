@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\bin\Debug\net8.0\HerencaEPolimorfismo.exe
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\bin\Debug\net8.0\HerencaEPolimorfismo.deps.json
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\bin\Debug\net8.0\HerencaEPolimorfismo.runtimeconfig.json
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\bin\Debug\net8.0\HerencaEPolimorfismo.dll
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\bin\Debug\net8.0\HerencaEPolimorfismo.pdb
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\HerencaEPolimorfismo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\HerencaEPolimorfismo.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\HerencaEPolimorfismo.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\HerencaEPolimorfismo.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\HerencaEPolimorfismo.dll
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\refint\HerencaEPolimorfismo.dll
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\HerencaEPolimorfismo.pdb
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\HerencaEPolimorfismo.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Projetos\HerencaEPolimorfismo\obj\Debug\net8.0\ref\HerencaEPolimorfismo.dll
